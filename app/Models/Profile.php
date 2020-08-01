@@ -4,7 +4,7 @@ namespace App\Models;
 
 use App\Models\Model;
 
-class User extends Model
+class Profile extends Model
 {
-	public $table = 'users';
+	public $table = 'profile';
 }

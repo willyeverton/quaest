@@ -5,7 +5,7 @@ return [
 	'database' => [
 		'driver'   => 'mysql',
 		'host'     => 'localhost',
-		'database' => 'code',
+		'database' => 'quaest',
 		'username' => 'root',
 		'password' => '',
 		'options' => [
