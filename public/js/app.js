@@ -17,7 +17,7 @@
             }
         };
 
-        $.get("chart", (response, status) => {
+        $.post("/", {}, (response, status) => {
             if(status === 'success') {
                 let count = 0;
                 let configs = [];
@@ -37,7 +37,7 @@
                         });
                     });
 
-                    $('#my-chart-canvas').append(`<canvas id="canvas_${count}"> </canvas>`);
+                    $('#my-chart-canvas').append(`<canvas id="canvas_${count}"> </canvas> <br/> <hr/>`);
                     configs[count] = JSON.parse(JSON.stringify(config));
                 });
 
