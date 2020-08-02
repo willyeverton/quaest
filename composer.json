@@ -1,13 +1,13 @@
 {
-	"name": "santoshbaggam/mini-framework",
+	"name": "willyeverton/quaest",
     "description": "A mini PHP framework from scratch.",
-    "keywords": ["php", "mini", "framework"],
-    "license": "MIT",
+    "keywords": ["php", "mini", "framework", "quaest", "chart"],
+    "license": "ISC",
     "type": "project",
     "authors": [
         {
-            "name": "Santosh Baggam",
-            "email": "santosh_baggam@yahoo.co.in"
+            "name": "Willy Everton S. Nascimento",
+            "email": "willy.everton.s.nascimento@gmail.com"
         }
     ],
     "require": {
