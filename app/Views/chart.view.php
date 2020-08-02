@@ -37,7 +37,9 @@
                     <h1 class="h2">Dashboard</h1>
                 </div>
 
-                <canvas id="canvas"></canvas>
+                <div id="my-chart-canvas">
+
+                </div>
             </main>
         </div>
     </div>

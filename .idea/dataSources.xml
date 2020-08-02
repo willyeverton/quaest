@@ -7,5 +7,11 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://localhost:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="postgres@localhost" uuid="160b78a4-fdd1-4a59-801e-9a756dc97f67">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-107-20-104-234.compute-1.amazonaws.com:5432/d7hohjuv5lsfsh</jdbc-url>
+    </data-source>
   </component>
 </project>

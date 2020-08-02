@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/php-mini-framework.iml" filepath="$PROJECT_DIR$/.idea/php-mini-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quaest.iml" filepath="$PROJECT_DIR$/.idea/quaest.iml" />
     </modules>
   </component>
 </project>
