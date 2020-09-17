@@ -1,4 +1,4 @@
-Dashboard baseado em uma série histórica de dados de redes
+Dashboard PHP baseado em uma série histórica de dados de redes
 sociais de pessoas e marcas. Os dados estão organizados da seguinte forma:
  - Existem duas categorias (Líderes Mundiais e Cervejas);
  - Cada categoria contém um conjunto de personalidades agregadas por mês;
